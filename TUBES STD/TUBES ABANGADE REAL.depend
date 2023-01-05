@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1672644847 source:c:\users\ridho\onedrive\documents\kuliah\telkom\semester 3\tubes riil std\tubes abangade real\main.cpp
+	<iostream>
+	"lowongan.h"
+	"pelamar.h"
+
+1672643792 source:c:\users\ridho\onedrive\documents\kuliah\telkom\semester 3\tubes riil std\tubes abangade real\pelamar.cpp
+	"pelamar.h"
+
+1672642792 source:c:\users\ridho\onedrive\documents\kuliah\telkom\semester 3\tubes riil std\tubes abangade real\lowongan.cpp
+	"lowongan.h"
+
+1672642813 c:\users\ridho\onedrive\documents\kuliah\telkom\semester 3\tubes riil std\tubes abangade real\lowongan.h
+	<iostream>
+	"pelamar.h"
+
+1672643792 c:\users\ridho\onedrive\documents\kuliah\telkom\semester 3\tubes riil std\tubes abangade real\pelamar.h
+	<iostream>
+
+1672836245 source:e:\kuliah\semester 3\tp_struktur data\tubes\revisi tubes\lowongan.cpp
+	"lowongan.h"
+
+1672836162 e:\kuliah\semester 3\tp_struktur data\tubes\revisi tubes\lowongan.h
+	<iostream>
+	"pelamar.h"
+
+1672643792 e:\kuliah\semester 3\tp_struktur data\tubes\revisi tubes\pelamar.h
+	<iostream>
+
+1672838438 source:e:\kuliah\semester 3\tp_struktur data\tubes\revisi tubes\main.cpp
+	<iostream>
+	"lowongan.h"
+	"pelamar.h"
+
+1672838011 source:e:\kuliah\semester 3\tp_struktur data\tubes\revisi tubes\pelamar.cpp
+	"pelamar.h"
+
+1672846183 source:c:\users\ridho\downloads\revisi akhir\revisi tubes\lowongan.cpp
+	"lowongan.h"
+
+1672836162 c:\users\ridho\downloads\revisi akhir\revisi tubes\lowongan.h
+	<iostream>
+	"pelamar.h"
+
+1672643792 c:\users\ridho\downloads\revisi akhir\revisi tubes\pelamar.h
+	<iostream>
+
+1672846588 source:c:\users\ridho\downloads\revisi akhir\revisi tubes\main.cpp
+	<iostream>
+	"lowongan.h"
+	"pelamar.h"
+
+1672838588 source:c:\users\ridho\downloads\revisi akhir\revisi tubes\pelamar.cpp
+	"pelamar.h"
+
